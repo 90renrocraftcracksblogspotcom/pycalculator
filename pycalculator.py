@@ -1,4 +1,4 @@
-## Made By 90renrocraftcraksblogspotcom
+## Made On Kali Linux
 
 def add(x, y):
     return x + y
@@ -18,15 +18,15 @@ def divide(x, y):
         return "Error! Division by zero."
 
 def calculator():
-    print("Welcome to the Calculator!")
+    print("Welcome to this goddamn calculator!")
     
     while True:
-        print("\nSelect operation:")
-        print("1. Add")
-        print("2. Subtract")
-        print("3. Multiply")
-        print("4. Divide")
-        print("5. Exit")
+        print("$Select operation:")
+        print("1.Press 1 to Add")
+        print("2.Press 2 to Subtract")
+        print("3.Press 3 to Multiply")
+        print("4.Press 4 to Divide")
+        print("5.Press 5 to Exit")
         
         choice = input("Enter choice (1/2/3/4/5): ")
         
